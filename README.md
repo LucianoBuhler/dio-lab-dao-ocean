@@ -2,8 +2,8 @@
 
 ## 📚 Seletor de Idioma / Language Selector
 
-- [🇧🇷 Português (BR)](#justificativa-do-projeto-🇧🇷)
-- [🇺🇸 English (US)](#project-justification-🇺🇸)
+- [🇧🇷 Português (BR)](#justificativa-do-projeto-)
+- [🇺🇸 English (US)](#project-justification-)
 
 ---
 
